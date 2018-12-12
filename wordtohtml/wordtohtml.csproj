@@ -149,6 +149,8 @@
   <ItemGroup>
     <Content Include="source\log4net.dll" />
     <Content Include="source\logo.ico" />
+    <Content Include="source\Microsoft.Office.Interop.Word.dll" />
+    <Content Include="source\Office.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
